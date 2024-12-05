@@ -8,7 +8,9 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\IncrementalGenerators_ns20\IncrementalGenerators_ns20.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="true"/>
+      <ProjectReference Include="..\IncrementalGenerators_net9\IncrementalGenerators_net9.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="true"/>
+<!--      <ProjectReference Include="..\IncrementalGenerators_ns20\IncrementalGenerators_ns20.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="true"/>-->
+<!--      <ProjectReference Include="..\IncrementalGenerators_ns21\IncrementalGenerators_ns21.csproj" OutputItemType="Analyzer" ReferenceOutputAssembly="true"/>-->
     </ItemGroup>
 
 </Project>

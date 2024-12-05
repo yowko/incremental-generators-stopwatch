@@ -1,5 +1,5 @@
 using System.Diagnostics;
-using IncrementalGenerators_ns20;
+using IncrementalGenerators_net9;
 
 namespace IncrementalGeneratorsDemo;
 

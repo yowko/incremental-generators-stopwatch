@@ -4,7 +4,7 @@ using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.CodeAnalysis.Text;
 
-namespace IncrementalGenerators_ns20
+namespace IncrementalGenerators_ns21
 {
     
     class MethodModel
